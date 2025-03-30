@@ -3,7 +3,7 @@
 **MERN Stack Developer | 2+ Years Experience | JavaScript Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://www.linkedin.com/in/ohine-ivori-20027b335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
 
 ## 🚀 Technical Skills
