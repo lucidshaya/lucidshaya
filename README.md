@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👨‍💻
+# Hi, I'm Lucid 👨‍💻
 
 **MERN Stack Developer | 2+ Years Experience | JavaScript Enthusiast**
 
@@ -42,10 +42,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&langs_count=6)
 
 ## 🏆 Certifications
-- MongoDB University - M001 MongoDB Basics
-- Meta Back-End Developer Professional Certificate
+- IBT
+- Saylor.org Software Engineering 
 
 ## 📫 Let's Connect
-- Email: your.email@professional.com
+- Email: ohine.ivori@gmail.com
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
