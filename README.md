@@ -1,7 +1,3 @@
-Here’s an improved version of your profile with enhanced readability, visual appeal, and professionalism while keeping the structure intact. I’ve refined the wording, added polish to the design, and ensured consistency. Placeholder links and usernames have been preserved for you to customize.
-
----
-
 # Hi, I'm Lucid 👨‍💻  
 **MERN Stack Developer | 2+ Years of Experience | JavaScript Enthusiast**
 
