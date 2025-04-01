@@ -1,4 +1,4 @@
-# Hi, I'm Lucid 👨‍💻  
+# Hi, I'm Ohine 👨‍💻  
 **MERN Stack Developer | 2+ Years of Experience | JavaScript Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
