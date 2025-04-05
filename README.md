@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ohine 👋
 
 🚀 Full-Stack MERN Developer | Passionate about building modern web applications
 
