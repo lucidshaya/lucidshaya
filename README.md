@@ -43,7 +43,7 @@
 - **React & TypeScript**: 90%  
 - **Node.js & Express**: 85%  
 - **MongoDB & PostgreSQL**: 80%  
-- **Python & Django**: 70%
+
 
 ---
 
