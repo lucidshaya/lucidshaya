@@ -1,7 +1,7 @@
 # Hi, I'm Ohine 👋
 
 🚀 **Full-Stack MERN Developer** | Crafting Modern, Scalable Web Experiences  
-🌱 **Currently mastering**: Python/Django, System Design, and Microservices
+🌱 **Currently mastering**: Python/Django, System Design, and Microservices, TypeScript/React
 
 ---
 
@@ -72,12 +72,12 @@
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications 
 <div align="left">
   <ul>
     <li>
       <strong>IBT Web Development Certification</strong><br>
-      Issued by: International Business and Technology Institute | Completed: June 2023<br>
+      Issued by: International Business and Technology Institute | Completed: May 2025<br>
       Demonstrated proficiency in full-stack web development with a focus on MERN stack.<br>
       <a href="https://example.com/ibt-certificate">
         <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=academia&logoColor=white" alt="IBT Certificate">
@@ -85,7 +85,7 @@
     </li>
     <li>
       <strong>Cisco Networking Academy: Introduction to Networks</strong><br>
-      Issued by: Cisco Networking Academy | Completed: March 2022<br>
+      Issued by: Cisco Networking Academy | Completed: In Progress <br>
       Gained foundational knowledge in networking concepts and protocols.<br>
       <a href="https://example.com/cisco-certificate">
         <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=academia&logoColor=white" alt="Cisco Certificate">
@@ -93,7 +93,7 @@
     </li>
     <li>
       <strong>GeeksforGeeks: Data Structures & Algorithms</strong><br>
-      Issued by: GeeksforGeeks | Completed: January 2024<br>
+      Issued by: GeeksforGeeks | Completed: May 2025 <br>
       Mastered problem-solving with advanced data structures and algorithms.<br>
       <a href="https://media.geeksforgeeks.org/courses/certificates/dd9f89babb888784f5d60b74009aa68a.pdf">
         <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=academia&logoColor=white" alt="GeeksforGeeks Certificate">
