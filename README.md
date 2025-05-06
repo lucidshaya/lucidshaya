@@ -66,6 +66,7 @@
 ## 📍 Currently Exploring
 - Advanced React patterns with TypeScript
 - Shadcn component customization
+- Internships
 - Microservices architecture with Docker
 - System Design principles
 - Python and Django for scalable APIs
