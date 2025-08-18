@@ -1,4 +1,4 @@
-# Hi, I'm Ohinee 👋
+# Hi, I'm Ohine👋
 
 🚀 **Full-Stack MERN Developer** | Crafting Modern, Scalable Web Experiences  
 🌱 **Currently mastering**: Python/Django, System Design, and Microservices, TypeScript/React
