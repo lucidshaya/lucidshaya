@@ -77,8 +77,16 @@
 <div align="left">
   <ul>
     <li>
+      <strong>GeeksforGeeks: FullStack Webdevelopement</strong><br>
+      Issued by: GeeksforGeeks <br>
+      Mastered problem-solving with advanced data structures and algorithms.<br>
+      <a href="https://media.geeksforgeeks.org/courses/certificates/dd9f89babb888784f5d60b74009aa68a.pdf">
+        <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=academia&logoColor=white" alt="GeeksforGeeks Certificate">
+      </a>
+    </li>
+     <li>
       <strong>IBT Web Development Certification</strong><br>
-      Issued by: International Business and Technology Institute | Completed: May 2025<br>
+      Issued by: International Business and Technology Institute. <br>
       Demonstrated proficiency in full-stack web development with a focus on MERN stack.<br>
       <a href="https://example.com/ibt-certificate">
         <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=academia&logoColor=white" alt="IBT Certificate">
@@ -86,18 +94,10 @@
     </li>
     <li>
       <strong>Cisco Networking Academy: Introduction to Networks</strong><br>
-      Issued by: Cisco Networking Academy | Completed: In Progress <br>
+      Issued by: Cisco Networking Academy. <br>
       Gained foundational knowledge in networking concepts and protocols.<br>
       <a href="https://example.com/cisco-certificate">
         <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=academia&logoColor=white" alt="Cisco Certificate">
-      </a>
-    </li>
-    <li>
-      <strong>GeeksforGeeks: Data Structures & Algorithms</strong><br>
-      Issued by: GeeksforGeeks | Completed: May 2025 <br>
-      Mastered problem-solving with advanced data structures and algorithms.<br>
-      <a href="https://media.geeksforgeeks.org/courses/certificates/dd9f89babb888784f5d60b74009aa68a.pdf">
-        <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=academia&logoColor=white" alt="GeeksforGeeks Certificate">
       </a>
     </li>
   </ul>
