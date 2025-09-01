@@ -107,8 +107,8 @@
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>  
-📄 **Resume**: [Ohine_Resume.pdf](https://example.com/resume.pdf) *[Update with actual link]*  
-📩 **Contact**: [Send a Message](https://your-portfolio.com/contact) *[Update with actual link]*  
+📄 **Resume**: *  
+📩 **Contact**: *  
 
 ---
 
