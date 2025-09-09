@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ohinee!  
+# 👋 Hey, I'm Ohine!  
 🚀 **Full-Stack MERN & Python Developer** | Crafting Scalable, Modern Web & Mobile Apps  
 🌟 **Passionate about**: Clean Code, Blockchain, and Next-Gen Tech  
 🌱 **Currently Learning**: Microservices, System Design, React Native, Smart Contracts  
