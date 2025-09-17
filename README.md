@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ohinre!
+# 👋 Hey, I'm Ohine!
 🚀 **Full-Stack MERN & Python Developer** | Crafting Scalable Web & Web3 Apps  
 🌟 **Passionate about**: Clean Code, Blockchain, and Next-Gen Tech  
 🌱 **Currently Exploring**: Microservices, Smart Contracts, React Native  
