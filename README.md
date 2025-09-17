@@ -2,7 +2,7 @@
 **Software Engineer | web3 developer | Ai ethusiansits **
 
 ## About Me
-- I Make techn content
+- I Make tech content
 - I Have developed APIs for Freelance companies
 - I Have helped teach alot of students web development and is currently working on an Ai powered learning application
 
