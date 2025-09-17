@@ -2,9 +2,9 @@
 **Software Engineer | web3 developer | Ai ethusiansits **
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWork's social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills.
+- I Make techn content
+- I Have developed APIs for Freelance companies
+- I Have helped teach alot of students web development and is currently working on an Ai powered learning application
 
 ## Skill Stack
 <!-- Skill icons provided by skill-icons: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
