@@ -1,4 +1,4 @@
-# 🐐 Ohine the Developer
+# 🐐 Hi i'm Ohine
 **Software Engineer | web3 developer | Ai ethusiansits **
 
 ## About Me
