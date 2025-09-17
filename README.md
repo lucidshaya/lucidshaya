@@ -1,138 +1,187 @@
-# 👋 Hey, I'm Ohine!
-🚀 **Full-Stack MERN & Python Developer** | Crafting Scalable Web & Web3 Apps  
-🌟 **Passionate about**: Clean Code, Blockchain, and Next-Gen Tech  
-🌱 **Currently Exploring**: Microservices, Smart Contracts, React Native  
-🔭 **Open to Opportunities**  
+# 🐐 Ohine the Developer
+**Software Engineer | web3 developer | Ai ethusiansits **
 
----
+## About Me
+- I build, ship, and tell the story in public.
+- Grew NextWork's social media to 250K+ followers in one year.
+- Help teach 145,000+ students cloud, AI, and tech skills.
 
-## 🛠️ Tech Stack
+## Skill Stack
+<!-- Skill icons provided by skill-icons: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma,mongodb,express,react,postgres,nextjs,solidity&theme=light)
 
-### Frontend
-<div class="grid grid-cols-4 gap-2">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-</div>
+**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows, MERN stack, PERN stack.
 
-### Backend
-<div class="grid grid-cols-2 gap-2">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-</div>
-
-### Database
-<div class="grid grid-cols-3 gap-2">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Neon_DB-00D1B2?style=for-the-badge&logo=neon&logoColor=white" alt="Neon DB">
-</div>
-
-### Blockchain & DevOps
-<div class="grid grid-cols-4 gap-2">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-</div>
-
----
-
-## ⌨️ FullStack Projects  + Ai
-
+## Fullstack + AI Projects
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/lucidshaya/ecommerce">
-        <img src="https://via.placeholder.com/300x200?text=E-Commerce+Platform" alt="E-Commerce Platform" style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LMS-AI-Learning-Platform.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/lms-ai-platform.png" alt="LMS AI Learning Platform" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>E-Commerce Platform</b><br/>
-      <sub>Full-stack app with admin dashboard and Stripe payments.</sub><br/>
-      🔗 <a href="https://github.com/lucidshaya/ecommerce">Repo</a>
-      <br/>
-      <sub>Tags: Next.js, Tailwind, Node.js, Neon DB</sub>
+      <b>LMS AI Learning Platform</b><br/>
+      <sub>AI-driven learning management system with personalized content recommendations.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LMS-AI-Learning-Platform.md">Repo</a><br/>
+      🌐 <a href="https://lms-ai-demo.nextwork.org">View Live</a><br/>
+      <sub>Tags: MERN, TypeScript, AI, Next.js</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/lucidshaya/logistics">
-        <img src="https://via.placeholder.com/300x200?text=Logistics+Management" alt="Logistics Management System" style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LucidGPT.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/lucidgpt.png" alt="LucidGPT ChatGPT Clone" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Logistics Management System</b><br/>
-      <sub>Real-time tracking with FastAPI and Neon DB.</sub><br/>
-      🔗 <a href="https://github.com/lucidshaya/logistics">Repo</a>
-      <br/>
-      <sub>Tags: FastAPI, Python, Neon DB</sub>
+      <b>LucidGPT (ChatGPT Clone)</b><br/>
+      <sub>Conversational AI chatbot mimicking ChatGPT with custom fine-tuning.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LucidGPT.md">Repo</a><br/>
+      🌐 <a href="https://lucidgpt.nextwork.org">View Live</a><br/>
+      <sub>Tags: PERN, TypeScript, AI, Next.js</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/lucidshaya/Wallet-Tracker-Bot">
-        <img src="https://via.placeholder.com/300x200?text=Wallet+Tracker+Bot" alt="Wallet Tracker Bot" style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/AI-Ecommerce-Site.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-ecommerce.png" alt="AI-Powered Ecommerce Site" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Wallet Tracker Bot</b><br/>
-      <sub>Real-time crypto tracking with Docker.</sub><br/>
-      🔗 <a href="https://github.com/lucidshaya/Wallet-Tracker-Bot">Repo</a>
-      <br/>
-      <sub>Tags: Python, FastAPI, Solidity</sub>
+      <b>AI-Powered Ecommerce Site</b><br/>
+      <sub>Ecommerce platform with AI-driven product recommendations and chat support.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/AI-Ecommerce-Site.md">Repo</a><br/>
+      🌐 <a href="https://ai-ecommerce.nextwork.org">View Live</a><br/>
+      <sub>Tags: MERN, TypeScript, AI, Next.js</sub>
     </td>
   </tr>
 </table>
 
----
+## Web3 Projects
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/Etherscan.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/etherscan.png" alt="Etherscan Clone" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Etherscan Clone</b><br/>
+      <sub>Blockchain explorer for Ethereum transactions and smart contracts.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/Etherscan.md">Repo</a><br/>
+      🌐 <a href="https://etherscan-clone.nextwork.org">View Live</a><br/>
+      <sub>Tags: Solidity, TypeScript, Next.js, Web3</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/Defi-NFT-Marketplace.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/defi-nft.png" alt="DeFi NFT Marketplace" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>DeFi NFT Marketplace</b><br/>
+      <sub>Decentralized marketplace for trading NFTs with DeFi integrations.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/Defi-NFT-Marketplace.md">Repo</a><br/>
+      🌐 <a href="https://defi-nft.nextwork.org">View Live</a><br/>
+      <sub>Tags: Solidity, TypeScript, Next.js, Web3</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/AI-Cross-Chain-Freelancer.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-freelancer.png" alt="AI Cross-Chain Freelancer Platform" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>AI-Enhanced Cross-Chain Freelancer Platform</b><br/>
+      <sub>Freelancer platform with zk-privacy and AI-driven reputation scoring.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/AI-Cross-Chain-Freelancer.md">Repo</a><br/>
+      🌐 <a href="https://ai-freelancer.nextwork.org">View Live</a><br/>
+      <sub>Tags: Solidity, TypeScript, AI, Web3</sub>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Web 3 Projects
+## AI Projects
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI/DeepSeek-AI-Chatbot.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek.png" alt="DeepSeek AI Chatbot" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>DeepSeek AI Chatbot</b><br/>
+      <sub>LLM-powered chatbot for real-time domain-specific question answering.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI/DeepSeek-AI-Chatbot.md">Repo</a><br/>
+      🌐 <a href="https://deepseek.nextwork.org">View Live</a><br/>
+      <sub>Tags: AI, LLMs, Python, TypeScript</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI/AI-Image-Generator.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-image-gen.png" alt="AI Image Generator" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>AI Image Generator</b><br/>
+      <sub>Generates images from text prompts using a fine-tuned diffusion model.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI/AI-Image-Generator.md">Repo</a><br/>
+      🌐 <a href="https://ai-image-gen.nextwork.org">View Live</a><br/>
+      <sub>Tags: AI, Python, TypeScript, Next.js</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI/AI-Sentiment-Analyzer.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-sentiment.png" alt="AI Sentiment Analyzer" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>AI Sentiment Analyzer</b><br/>
+      <sub>Analyzes text sentiment using NLP and displays results in a dashboard.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI/AI-Sentiment-Analyzer.md">Repo</a><br/>
+      🌐 <a href="https://ai-sentiment.nextwork.org">View Live</a><br/>
+      <sub>Tags: AI, Python, TypeScript, Next.js</sub>
+    </td>
+  </tr>
+</table>
 
+## Telegram Bots
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/wallet-tracker.png" alt="Wallet Tracker Bot" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Wallet Tracker Bot</b><br/>
+      <sub>Tracks crypto wallet transactions and sends real-time Telegram alerts.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md">Repo</a><br/>
+      🌐 <a href="https://t.me/WalletTrackerBot">View Live</a><br/>
+      <sub>Tags: Node.js, TypeScript, Web3, Telegram</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/zk-Bounty-Bot.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/zk-bounty.png" alt="zk-Private Bounty Bot" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>zk-Private Cross-Chain Bounty Bot</b><br/>
+      <sub>Manages freelance bounties with zk-privacy across blockchains.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/zk-Bounty-Bot.md">Repo</a><br/>
+      🌐 <a href="https://t.me/zkBountyBot">View Live</a><br/>
+      <sub>Tags: Node.js, TypeScript, Solidity, Web3</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/AI-Task-Manager-Bot.md">
+        <img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-task-bot.png" alt="AI Task Manager Bot" style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>AI Task Manager Bot</b><br/>
+      <sub>AI-powered bot for task management and reminders via Telegram.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/AI-Task-Manager-Bot.md">Repo</a><br/>
+      🌐 <a href="https://t.me/AITaskBot">View Live</a><br/>
+      <sub>Tags: Node.js, TypeScript, AI, Telegram</sub>
+    </td>
+  </tr>
+</table>
 
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats: https://github.com/anuraghazra/github-readme-stats -->
+![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
 
+## Links
+<!-- Section layout inspired by: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
+- [**Contact**](mailto:maximus@nextwork.org)
+<a href="https://www.linkedin.com/in/maximus-soares/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/mmaximus.soares/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 
-
--- 
-
-
-## 🖥️ Ai Projects
-
-
-
-
--- 
-
-
-## 🤖 Telegrambots
-
-
-## 📊 Stats
-![Ohine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucidshaya&show_icons=true&theme=radical&count_private=true)
-- **Contribution Grade**: A (Over 120 commits show my commitment!)
-
----
-
-## 🔍 Currently Exploring
-- 🧩 Microservices with Docker and Kubernetes
-- ⛓️ Smart contracts with Solidity
-- ⚡ Optimizing APIs with Neon DB
-- 📚 System Design for scalability
-
----
-
-## 🎓 Education & Certifications
-- **BSc Software Engineering, Miva Open University** *(In Progress)*
-- **GeeksforGeeks: Full-Stack Web Development**  
-  [View Certificate](https://media.geeksforgeeks.org/courses/certificates/dd9f89babb888784f5d60b74009aa68a.pdf)
-
----
-
-## 💬 Connect with Me
-<div class="grid grid-cols-3 gap-2">
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
-
----
-
+<!-- Fun GIF -->
+![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
