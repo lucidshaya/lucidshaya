@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## ⌨️ FullStack Projects  + Ai
 
 <table>
   <tr>
@@ -85,6 +85,26 @@
 </table>
 
 ---
+
+## 🚀 Web 3 Projects
+
+
+
+
+
+-- 
+
+
+## 🖥️ Ai Projects
+
+
+
+
+-- 
+
+
+## 🤖 Telegrambots
+
 
 ## 📊 Stats
 ![Ohine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucidshaya&show_icons=true&theme=radical&count_private=true)
