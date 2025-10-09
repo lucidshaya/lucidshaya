@@ -1,4 +1,4 @@
-# 🐐 Hi i'm Ohineeee
+# 🐐 Hi i'm Ohineeeee
 **Software Engineer | web3 developer | Ai ethusiansits **
 
 ## About Me
