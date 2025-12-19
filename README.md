@@ -71,38 +71,8 @@
     </td>
   </tr>
 </table>
-
-## AI Projects
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI/DeepSeek-AI-Chatbot.md">
-        <b>DeepSeek AI Chatbot</b><br/>
-        <sub>LLM-powered chatbot for real-time domain-specific question answering.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI/DeepSeek-AI-Chatbot.md">Repo</a><br/>
-        🌐 <a href="https://deepseek.nextwork.org">View Live</a><br/>
-        <sub>Tags: AI, LLMs, Python, TypeScript</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI/AI-Image-Generator.md">
-        <b>AI Image Generator</b><br/>
-        <sub>Generates images from text prompts using a fine-tuned diffusion model.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI/AI-Image-Generator.md">Repo</a><br/>
-        🌐 <a href="https://ai-image-gen.nextwork.org">View Live</a><br/>
-        <sub>Tags: AI, Python, TypeScript, Next.js</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI/AI-Sentiment-Analyzer.md">
-        <b>AI Sentiment Analyzer</b><br/>
-        <sub>Analyzes text sentiment using NLP and displays results in a dashboard.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI/AI-Sentiment-Analyzer.md">Repo</a><br/>
-        🌐 <a href="https://ai-sentiment.nextwork.org">View Live</a><br/>
-        <sub>Tags: AI, Python, TypeScript, Next.js</sub>
-    </td>
-  </tr>
-</table>
-
-## Telegram Bots
+        
+## Fun Stuff
 <table>
   <tr>
     <td align="center" width="33%">
