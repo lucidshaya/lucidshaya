@@ -13,7 +13,7 @@ I have helped teach many students web development and am currently building an A
 | Project | Description | Links | Tags |
 |---------|-------------|-------|------|
 | LMS AI Learning Platform | AI-driven learning management system with personalized content recommendations. | [Repo]() \| [Live]() | MERN, TypeScript, AI, Next.js |
-| **LucidGPT (ChatGPT Clone)** | **Conversational AI chatbot mimicking ChatGPT with custom fine-tuning.** | **[Repo](https://github.com/lucidshaya/Code-Gen-AI)** \| [Live]() | PERN, TypeScript, AI, Next.js |
+| **LucidGPT (ChatGPT Clone)** | **Conversational AI chatbot mimicking ChatGPT with custom fine-tuning.** | **Repo: [Code-Gen-AI](https://github.com/lucidshaya/Code-Gen-AI)** \| [Live]() | PERN, TypeScript, AI, Next.js |
 | Rag Chatbot + E-commerce Platform | E-commerce platform with RAG chatbot for product recommendations and chat support. | [Repo]() \| [Live]() | MERN, TypeScript, AI, Next.js |
 ## Web3 Projects
 | Project | Description | Links | Tags |
