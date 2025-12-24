@@ -1,119 +1,42 @@
-# 🐐 Hi i'm Ohine
-
-**Software Engineer | web3 developer | Ai ethusiansits **
+# 🐐 Hi, I'm Ohine
+**Software Engineer | Web3 Developer | AI Enthusiast**
 
 ## About Me
-- I Make tech content
-- I Have developed APIs for Freelance companies
-- I Have helped teach alot of students web development and is currently working on an Ai powered learning application
+- I create tech content.
+- I have developed APIs for freelance companies.
+- I have helped teach many students web development and am currently building an AI-powered learning application.
 
 ## Skill Stack
-<!-- Skill icons provided by skill-icons: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 ![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma,mongodb,express,react,postgres,nextjs,solidity&theme=light)
+
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows, MERN stack, PERN stack.
 
 ## Fullstack + AI Projects
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LMS-AI-Learning-Platform.md">
-        <b>LMS AI Learning Platform</b><br/>
-        <sub>AI-driven learning management system with personalized content recommendations.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LMS-AI-Learning-Platform.md">Repo</a><br/>
-        🌐 <a href="https://lms-ai-demo.nextwork.org">View Live</a><br/>
-        <sub>Tags: MERN, TypeScript, AI, Next.js</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LucidGPT.md">
-        <b>LucidGPT (ChatGPT Clone)</b><br/>
-        <sub>Conversational AI chatbot mimicking ChatGPT with custom fine-tuning.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LucidGPT.md">Repo</a><br/>
-        🌐 <a href="https://lucidgpt.nextwork.org">View Live</a><br/>
-        <sub>Tags: PERN, TypeScript, AI, Next.js</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/AI-Ecommerce-Site.md">
-        <b>AI-Powered Ecommerce Site</b><br/>
-        <sub>Ecommerce platform with AI-driven product recommendations and chat support.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/AI-Ecommerce-Site.md">Repo</a><br/>
-        🌐 <a href="https://ai-ecommerce.nextwork.org">View Live</a><br/>
-        <sub>Tags: MERN, TypeScript, AI, Next.js</sub>
-    </td>
-  </tr>
-</table>
+| Project | Description | Links | Tags |
+|---------|-------------|-------|------|
+| [LMS AI Learning Platform](https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LMS-AI-Learning-Platform.md) | AI-driven learning management system with personalized content recommendations. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LMS-AI-Learning-Platform.md) \| [Live](https://lms-ai-demo.nextwork.org) | MERN, TypeScript, AI, Next.js |
+| [LucidGPT (ChatGPT Clone)](https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LucidGPT.md) | Conversational AI chatbot mimicking ChatGPT with custom fine-tuning. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/LucidGPT.md) \| [Live](https://lucidgpt.nextwork.org) | PERN, TypeScript, AI, Next.js |
+| [Rag Chatbot + E-commerce Platform](https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/AI-Ecommerce-Site.md) | E-commerce platform with RAG chatbot for product recommendations and chat support. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Fullstack-AI/AI-Ecommerce-Site.md) \| [Live](https://ai-ecommerce.nextwork.org) | MERN, TypeScript, AI, Next.js |
 
 ## Web3 Projects
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/Etherscan.md">
-        <b>Etherscan Clone</b><br/>
-        <sub>Blockchain explorer for Ethereum transactions and smart contracts.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/Etherscan.md">Repo</a><br/>
-        🌐 <a href="https://etherscan-clone.nextwork.org">View Live</a><br/>
-        <sub>Tags: Solidity, TypeScript, Next.js, Web3</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/Defi-NFT-Marketplace.md">
-        <b>DeFi NFT Marketplace</b><br/>
-        <sub>Decentralized marketplace for trading NFTs with DeFi integrations.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/Defi-NFT-Marketplace.md">Repo</a><br/>
-        🌐 <a href="https://defi-nft.nextwork.org">View Live</a><br/>
-        <sub>Tags: Solidity, TypeScript, Next.js, Web3</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/AI-Cross-Chain-Freelancer.md">
-        <b>AI-Enhanced Cross-Chain Freelancer Platform</b><br/>
-        <sub>Freelancer platform with zk-privacy and AI-driven reputation scoring.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Web3/AI-Cross-Chain-Freelancer.md">Repo</a><br/>
-        🌐 <a href="https://ai-freelancer.nextwork.org">View Live</a><br/>
-        <sub>Tags: Solidity, TypeScript, AI, Web3</sub>
-    </td>
-  </tr>
-</table>
-        
+| Project | Description | Links | Tags |
+|---------|-------------|-------|------|
+| [Etherscan Clone](https://github.com/maximus-soares/Projects/blob/main/Web3/Etherscan.md) | Blockchain explorer for Ethereum transactions and smart contracts. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Web3/Etherscan.md) \| [Live](https://etherscan-clone.nextwork.org) | Solidity, TypeScript, Next.js, Web3 |
+| [DeFi NFT Marketplace](https://github.com/maximus-soares/Projects/blob/main/Web3/Defi-NFT-Marketplace.md) | Decentralized marketplace for trading NFTs with DeFi integrations. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Web3/Defi-NFT-Marketplace.md) \| [Live](https://defi-nft.nextwork.org) | Solidity, TypeScript, Next.js, Web3 |
+| [AI-Enhanced Cross-Chain Freelancer Platform](https://github.com/maximus-soares/Projects/blob/main/Web3/AI-Cross-Chain-Freelancer.md) | Freelancer platform with ZK-privacy and AI-driven reputation scoring. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Web3/AI-Cross-Chain-Freelancer.md) \| [Live](https://ai-freelancer.nextwork.org) | Solidity, TypeScript, AI, Web3 |
+
 ## Fun Stuff
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md">
-        <b>Wallet Tracker Bot</b><br/>
-        <sub>Tracks crypto wallet transactions and sends real-time Telegram alerts.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md">Repo</a><br/>
-        🌐 <a href="https://t.me/WalletTrackerBot">View Live</a><br/>
-        <sub>Tags: Node.js, TypeScript, Web3, Telegram</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/zk-Bounty-Bot.md">
-        <b>zk-Private Cross-Chain Bounty Bot</b><br/>
-        <sub>Manages freelance bounties with zk-privacy across blockchains.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/zk-Bounty-Bot.md">Repo</a><br/>
-        🌐 <a href="https://t.me/zkBountyBot">View Live</a><br/>
-        <sub>Tags: Node.js, TypeScript, Solidity, Web3</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/AI-Task-Manager-Bot.md">
-        <b>AI Task Manager Bot</b><br/>
-        <sub>AI-powered bot for task management and reminders via Telegram.</sub><br/>
-        🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/AI-Task-Manager-Bot.md">Repo</a><br/>
-        🌐 <a href="https://t.me/AITaskBot">View Live</a><br/>
-        <sub>Tags: Node.js, TypeScript, AI, Telegram</sub>
-    </td>
-  </tr>
-</table>
+| Project | Description | Links | Tags |
+|---------|-------------|-------|------|
+| [Wallet Tracker Bot](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md) | Tracks crypto wallet transactions and sends real-time Telegram alerts. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md) \| [Live](https://t.me/WalletTrackerBot) | Node.js, TypeScript, Web3, Telegram |
+| [ZK-Private Cross-Chain Bounty Bot](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/zk-Bounty-Bot.md) | Manages freelance bounties with ZK-privacy across blockchains. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/zk-Bounty-Bot.md) \| [Live](https://t.me/zkBountyBot) | Node.js, TypeScript, Solidity, Web3 |
+| [AI Task Manager Bot](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/AI-Task-Manager-Bot.md) | AI-powered bot for task management and reminders via Telegram. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/AI-Task-Manager-Bot.md) \| [Live](https://t.me/AITaskBot) | Node.js, TypeScript, AI, Telegram |
 
 ## Stats
-<!-- Stats card by anuraghazra/github-readme-stats: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
+![Ohine's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
 
 ## Links
-<!-- Section layout inspired by: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org)
-<a href="https://www.linkedin.com/in/maximus-soares/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-
+<a href="https://www.linkedin.com/in/maximus-soares/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/mmaximus.soares/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
