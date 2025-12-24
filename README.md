@@ -29,7 +29,6 @@
 | Project | Description | Links | Tags |
 |---------|-------------|-------|------|
 | [Wallet Tracker Bot](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md) | Tracks crypto wallet transactions and sends real-time Telegram alerts. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md) \| [Live](https://t.me/WalletTrackerBot) | Node.js, TypeScript, Web3, Telegram |
-| [ZK-Private Cross-Chain Bounty Bot](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/zk-Bounty-Bot.md) | Manages freelance bounties with ZK-privacy across blockchains. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/zk-Bounty-Bot.md) \| [Live](https://t.me/zkBountyBot) | Node.js, TypeScript, Solidity, Web3 |
 | [AI Task Manager Bot](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/AI-Task-Manager-Bot.md) | AI-powered bot for task management and reminders via Telegram. | [Repo](https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/AI-Task-Manager-Bot.md) \| [Live](https://t.me/AITaskBot) | Node.js, TypeScript, AI, Telegram |
 
 ## Stats
