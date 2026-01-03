@@ -1,4 +1,4 @@
-# 🔬 Hi, I'm Ohine
+# 🔬 Hi, I'm Ohinee
 **Software Engineer | Web3 Developer | AI Enthusiast**
 
 ## About Me
