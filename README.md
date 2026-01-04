@@ -24,9 +24,9 @@ I have helped teach many students web development and am currently building an A
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows, MERN/PERN stacks.
 
 ## Fullstack + AI Projects
-| Project | Description | Links | Tags |
+| Project | Description | Links | Tags | 
 |---------|-------------|-------|------|
-| LMS AI Learning Platform | AI-driven learning management system with personalized content recommendations. | [Repo]() \| [Live]() | MERN, TypeScript, AI, Next.js |
+| LMS AI Learning Platform | AI-driven learning management system with personalized content recommendations. | **[Repo](https://github.com/lucidshaya/LMS-Platform)** \|[Live]() | MERN, TypeScript, AI, Next.js |
 | **LucidGPT (ChatGPT Clone)** | **Conversational AI chatbot mimicking ChatGPT with custom fine-tuning.** | **[Repo](https://github.com/lucidshaya/Code-Gen-AI)** \| [Live]() | PERN, TypeScript, AI, Next.js |
 | Rag Chatbot + E-commerce Platform | E-commerce platform with RAG chatbot for product recommendations and chat support. | [Repo]() \| [Live]() | MERN, TypeScript, AI, Next.js |
 
