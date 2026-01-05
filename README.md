@@ -41,7 +41,7 @@ I have helped teach many students web development and am currently building an A
 | Project | Description | Links | Tags |
 |---------|-------------|-------|------|
 | Wallet Tracker Bot | Tracks crypto wallet transactions and sends real-time Telegram alerts. | [Repo]() \| [Live]() | Node.js, TypeScript, Web3, Telegram |
-| AI Task Manager Bot | AI-powered bot for task management and reminders via Telegram. | [Repo]() \| [Live]() | Node.js, TypeScript, AI, Telegram |
+| Bill Payments Platform | AI-powered bot for task management and reminders via Telegram. | [Repo](https://github.com/lucidshaya/Bill-Payments-web-app) \| [Live](https://github.com/lucidshaya/Bill-Payments-web-app) | Node.js, TypeScript, AI, Telegram |
 
 ## Stats
 
