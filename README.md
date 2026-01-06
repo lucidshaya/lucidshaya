@@ -36,7 +36,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mongodb,docker,aws,linux,git" /><br><br>
 
   **Web3 & AI**<br>
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat,openai,pytorch,tensorflow,python" />
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
 </div>
 
@@ -75,4 +80,3 @@
   <br>
   <i>"Code is the brush, the screen is the canvas, and innovation is the art."</i>
 </div>
-
