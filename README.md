@@ -11,6 +11,9 @@
   </p>
 
   <p>
+    <a href="https://ohinethedevv.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="https://www.linkedin.com/in/ohine-ivori-20027b335" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -68,4 +71,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   <br>
   <i>"Code is the brush, the screen is the canvas, and innovation is the art."</i>
+  <br>
+  <a href="https://ohinethedevv.vercel.app/"><b>Explore My Full Portfolio</b></a>
 </div>
