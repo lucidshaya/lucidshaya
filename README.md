@@ -33,7 +33,7 @@ I have helped teach many students web development and am currently building an A
 ## Web3 Projects
 | Project | Description | Links | Tags |
 |---------|-------------|-------|------|
-| Etherscan Clone | Blockchain explorer for Ethereum transactions and smart contracts. | [Repo]() \| [Live]() | Solidity, TypeScript, Next.js, Web3 |
+| Etherscanner | Blockchain explorer for Ethereum transactions and smart contracts. | [Repo]() \| [Live]() | Solidity, TypeScript, Next.js, Web3 |
 | Solana Trading CLI | Decentralized marketplace for trading NFTs with DeFi integrations. | [Repo]() \| [Live]() | Solidity, TypeScript, Next.js, Web3 |
 | Solana Minting Dapp | Freelancer platform with ZK-privacy and AI-driven reputation scoring. | [Repo]() \| [Live]() | Solidity, TypeScript, AI, Web3 |
 
