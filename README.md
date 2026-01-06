@@ -50,6 +50,7 @@
 ## 🧠 AI & Fullstack Engineering
 | 📂 Project | 📝 Architecture & Impact | 🚀 Stack | 🔗 Links |
 | :--- | :--- | :--- | :--- |
+| **Lucid Stores** <br> *(Full-Stack Commerce)* | **Modern E-Commerce Engine.** Features secure Role-Based Access Control (RBAC), seamless PayPal integration, and optimized Cloudinary media handling. | `MERN` `Redux` `Tailwind` | [**Live App**](https://ecommerce-site-lucid-storess.onrender.com/) <br> [**View Repo**](https://github.com/lucidshaya/Ecommerce-Site-Lucid-Stores-) |
 | **LMS AI Platform** | **Adaptive Learning Engine.** Uses OpenAI to personalize content paths based on student performance metrics. | `Next.js` `OpenAI` `MERN` | [**View Repo**](https://github.com/lucidshaya/LMS-Platform) |
 | **LucidGPT** | **Context-Aware Chatbot.** A ChatGPT clone featuring custom context windows and optimized stream handling. | `PERN` `TypeScript` | [**View Repo**](https://github.com/lucidshaya/Code-Gen-AI) |
 | **Bill Payments Bot** | **FinTech Automation.** AI-powered task management bot for handling recurring bill reminders via Telegram. | `Node.js` `Telegram API` | [**View Repo**](https://github.com/lucidshaya/Bill-Payments-web-app) |
