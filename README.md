@@ -11,14 +11,14 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/maximus-soares/" target="_blank">
+    <a href="https://www.linkedin.com/in/ohine-ivori-20027b335" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:ivorilucid@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://www.instagram.com/mmaximus.soares/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <a href="https://x.com/LucidTheDevv" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
     </a>
   </p>
 </div>
@@ -29,14 +29,14 @@
 
 <div align="center">
   
-  **Frontend & Core**<br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" /><br><br>
+  **Languages & Frontend**<br>
+  <img src="https://skillicons.dev/icons?i=go,js,ts,react,nextjs,tailwind,html,css" /><br><br>
 
   **Backend & Infrastructure**<br>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,docker,aws,linux,git" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mongodb,docker,aws,linux,git" /><br><br>
 
   **Web3 & AI**<br>
-  <img src="https://skillicons.dev/icons?i=solidity,rust,python,pytorch,openai,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=solidity,hardhat,openai,pytorch,tensorflow,python" />
 
 </div>
 
@@ -53,8 +53,8 @@
 | 📂 Project | 📝 Architecture & Impact | 🚀 Stack | 🔗 Links |
 | :--- | :--- | :--- | :--- |
 | **EtherScanner** | **Blockchain Explorer.** Real-time transaction tracking and contract verification explorer. | `Solidity` `Ethers.js` | [**Live App**](https://etherscannerr.vercel.app/) |
-| **Solana Trading CLI** | **DeFi Tooling.** High-frequency CLI for NFT trading and token swaps on Solana. | `Rust` `Web3.js` | [**View Repo**]() |
-| **ZK-Privacy Mint** | **Zero-Knowledge Proofs.** Privacy-focused NFT minting platform with reputation scoring. | `Solidity` `ZK-Snarks` | [**View Repo**]() |
+| **Solana Trading CLI** | **DeFi Tooling.** High-frequency CLI for NFT trading and token swaps on Solana. | `TypeScript` `Web3.js` | [**View Repo**]() |
+| **ZK-Privacy Mint** | **Zero-Knowledge Proofs.** Privacy-focused NFT minting platform with reputation scoring. | `Solidity` `Hardhat` | [**View Repo**]() |
 
 <br>
 
@@ -75,3 +75,4 @@
   <br>
   <i>"Code is the brush, the screen is the canvas, and innovation is the art."</i>
 </div>
+
