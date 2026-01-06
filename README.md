@@ -60,7 +60,7 @@
 | :--- | :--- | :--- | :--- |
 | **EtherScanner** | **Blockchain Explorer.** Real-time transaction tracking and contract verification explorer. | `Solidity` `Ethers.js` | [**Live App**](https://etherscannerr.vercel.app/) |
 | **Solana Trading CLI** | **DeFi Tooling.** High-frequency CLI for NFT trading and token swaps on Solana. | `TypeScript` `Web3.js` | [**View Repo**]() |
-| **ZK-Privacy Mint** | **Zero-Knowledge Proofs.** Privacy-focused NFT minting platform with reputation scoring. | `Solidity` `Hardhat` | [**View Repo**]() |
+| **Solana Staking DApp** | **DeFi Yield Protocol.** High-performance staking pool allowing users to lock SOL and accrue rewards with real-time APY calculation. | `Rust` `Anchor` `React` | [**View Repo**]() |
 
 <br>
 
