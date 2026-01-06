@@ -1,52 +1,77 @@
-# 🔬 Hi, I'm Ohine
-**Software Engineer | Web3 Developer | AI Enthusiast**
+<div align="center">
 
-## About Me
-I create tech content.  
-I have developed APIs for freelance companies.  
-I have helped teach many students web development and am currently building an AI-powered learning application.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ohine!;Software+Engineer;Web3+Architect;AI+Enthusiast" alt="Typing SVG" />
+  </a>
 
-## Skill Stack
+  <h3>Building the intersection of <span style="color: #61DAFB;">AI</span>, <span style="color: #629460;">Blockchain</span>, and <span style="color: #FF9900;">Education</span>.</h3>
+  
+  <p>
+    I architect scalable APIs, pioneer AI-driven learning systems, and build secure decentralized infrastructure.
+  </p>
 
-![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;
-![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;
-![React](https://skillicons.dev/icons?i=react)&nbsp;
-![Next.js](https://skillicons.dev/icons?i=nextjs)&nbsp;
-![TypeScript](https://skillicons.dev/icons?i=ts)&nbsp;
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)&nbsp;
-![AWS](https://skillicons.dev/icons?i=aws)&nbsp;
-![Docker](https://skillicons.dev/icons?i=docker)&nbsp;
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)&nbsp;
-![MongoDB](https://skillicons.dev/icons?i=mongodb)&nbsp;
-![Solidity](https://skillicons.dev/icons?i=solidity)&nbsp;
-![OpenAI](https://skillicons.dev/icons?i=openai)
+  <p>
+    <a href="https://www.linkedin.com/in/maximus-soares/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.instagram.com/mmaximus.soares/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+</div>
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows, MERN/PERN stacks.
+---
 
-## Fullstack + AI Projects
-| Project | Description | Links | Tags | 
-|---------|-------------|-------|------|
-| LMS AI Learning Platform | AI-driven learning management system with personalized content recommendations. | **[Repo](https://github.com/lucidshaya/LMS-Platform)** \|[Live]() | MERN, TypeScript, AI, Next.js |
-| **LucidGPT (ChatGPT Clone)** | **Conversational AI chatbot mimicking ChatGPT with custom fine-tuning.** | **[Repo](https://github.com/lucidshaya/Code-Gen-AI)** \| [Live]() | PERN, TypeScript, AI, Next.js |
-| Rag Chatbot + E-commerce Platform | E-commerce platform with RAG chatbot for product recommendations and chat support. | [Repo]() \| [Live]() | MERN, TypeScript, AI, Next.js |
+<h2 align="center">🛠 Technology Stack</h2>
 
-## Web3 Projects
-| Project | Description | Links | Tags |
-|---------|-------------|-------|------|
-| Etherscanner | Blockchain explorer for Ethereum transactions and smart contracts. | [Repo]() \| [Live]() | Solidity, TypeScript, Next.js, Web3 |
-| Solana Trading CLI | Decentralized marketplace for trading NFTs with DeFi integrations. | [Repo]() \| [Live]() | Solidity, TypeScript, Next.js, Web3 |
-| Solana Minting Dapp | Freelancer platform with ZK-privacy and AI-driven reputation scoring. | [Repo]() \| [Live]() | Solidity, TypeScript, AI, Web3 |
+<div align="center">
+  
+  **Frontend & Core**<br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" /><br><br>
 
-## Fun Stuff
-| Project | Description | Links | Tags |
-|---------|-------------|-------|------|
-| Wallet Tracker Bot | Tracks crypto wallet transactions and sends real-time Telegram alerts. | [Repo]() \| [Live]() | Node.js, TypeScript, Web3, Telegram |
-| Bill Payments Platform | AI-powered bot for task management and reminders via Telegram. | [Repo](https://github.com/lucidshaya/Bill-Payments-web-app) \| [Live](https://github.com/lucidshaya/Bill-Payments-web-app) | Node.js, TypeScript, AI, Telegram |
+  **Backend & Infrastructure**<br>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,docker,aws,linux,git" /><br><br>
 
-## Stats
+  **Web3 & AI**<br>
+  <img src="https://skillicons.dev/icons?i=solidity,rust,python,pytorch,openai,tensorflow" />
 
-## Links
-**Portfolio**  
-**Contact**  
-<a href="https://www.linkedin.com/in/maximus-soares/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>  
-<a href="https://www.instagram.com/mmaximus.soares/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+</div>
+
+<br>
+
+## 🧠 AI & Fullstack Engineering
+| 📂 Project | 📝 Architecture & Impact | 🚀 Stack | 🔗 Links |
+| :--- | :--- | :--- | :--- |
+| **LMS AI Platform** | **Adaptive Learning Engine.** Uses OpenAI to personalize content paths based on student performance metrics. | `Next.js` `OpenAI` `MERN` | [**View Repo**](https://github.com/lucidshaya/LMS-Platform) |
+| **LucidGPT** | **Context-Aware Chatbot.** A ChatGPT clone featuring custom context windows and optimized stream handling. | `PERN` `TypeScript` | [**View Repo**](https://github.com/lucidshaya/Code-Gen-AI) |
+| **Bill Payments Bot** | **FinTech Automation.** AI-powered task management bot for handling recurring bill reminders via Telegram. | `Node.js` `Telegram API` | [**View Repo**](https://github.com/lucidshaya/Bill-Payments-web-app) |
+
+## ⛓️ Web3 & Blockchain Architecture
+| 📂 Project | 📝 Architecture & Impact | 🚀 Stack | 🔗 Links |
+| :--- | :--- | :--- | :--- |
+| **EtherScanner** | **Blockchain Explorer.** Real-time transaction tracking and contract verification explorer. | `Solidity` `Ethers.js` | [**Live App**](https://etherscannerr.vercel.app/) |
+| **Solana Trading CLI** | **DeFi Tooling.** High-frequency CLI for NFT trading and token swaps on Solana. | `Rust` `Web3.js` | [**View Repo**]() |
+| **ZK-Privacy Mint** | **Zero-Knowledge Proofs.** Privacy-focused NFT minting platform with reputation scoring. | `Solidity` `ZK-Snarks` | [**View Repo**]() |
+
+<br>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucidshaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucidshaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucidshaya&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <br>
+  <i>"Code is the brush, the screen is the canvas, and innovation is the art."</i>
+</div>
