@@ -1,88 +1,69 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ohine%20Ivori&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20·%20Web3%20Architect%20·%20AI%20Systems%20Builder&descAlignY=58&descSize=16&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:1a1033,100:09090B&height=180&section=header&text=Ohine%20Ivori&fontSize=56&fontColor=00FFB2&fontAlignY=40&desc=Full-Stack%20·%20Web3%20·%20AI%20Systems&descAlignY=60&descSize=15&animation=twinkling"/>
 
-<!-- TYPING SVG -->
+</div>
+
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=I+architect+things+that+scale.;I+build+AI+that+actually+works.;I+write+smart+contracts+that+hold.;I+ship+products+people+use." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=00FFB2&center=true&vCenter=true&width=580&lines=I+architect+systems+that+scale.;I+build+AI+that+ships+to+production.;I+write+smart+contracts+that+hold.;Full-Stack+%C2%B7+Web3+%C2%B7+AI+%E2%80%94+one+engineer." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- PROFILE VIEWS + STATS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=lucidshaya&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/lucidshaya?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
-&nbsp;
-<a href="https://ohinethedevv.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-00D9FF?style=flat&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- CONNECT BUTTONS -->
-<a href="https://ohinethedevv.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-0f0c29?style=for-the-badge" />
-</a>
-<a href="https://www.linkedin.com/in/ohine-ivori-20027b335" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ivorilucid@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://x.com/LucidTheDevv" target="_blank">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFB2?style=flat-square&logo=vercel&logoColor=000000)](https://ohinethedevv.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohine-ivori-20027b335)
+[![Email](https://img.shields.io/badge/ivorilucid@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ivorilucid@gmail.com)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/LucidTheDevv)
+[![Profile Views](https://komarev.com/ghpvc/?username=lucidshaya&label=Visits&color=7B61FF&style=flat-square)](https://github.com/lucidshaya)
 
 </div>
 
 ---
 
-## ⚡ Who Am I?
-
-```ts
+```typescript
 const ohine = {
-  role         : "Full-Stack Engineer · Web3 Architect · AI Systems Builder",
-  location     : "🌍 Building from anywhere",
-  focus        : ["Scalable APIs", "AI-Driven Products", "Decentralized Systems"],
-  currentlyOn  : "Shipping production-grade AI + blockchain solutions",
-  openTo       : "Full-Time Roles · Freelance · High-Impact Collaborations",
-  philosophy   : "Engineer for scale. Design for humans. Build for the future.",
+  role        : "Full-Stack Engineer · Web3 Architect · AI Systems Builder",
+  location    : "Building from anywhere. Shipping to everywhere.",
+  expertise   : ["Scalable APIs", "AI-Driven Products", "DeFi Protocols"],
+  stack       : ["TypeScript", "Rust", "Solidity", "Python", "Go", "React"],
+  status      : "Open to full-time roles · Contract · High-impact collabs",
+  philosophy  : "Build for scale. Design for humans. Ship for real.",
 };
 ```
 
-> I sit at the intersection of **AI**, **Web3**, and **full-stack engineering** — not as a hobbyist, but as a builder who ships. I architect systems that handle real users, real data, and real money.
+> I sit at the intersection of **AI**, **Web3**, and **full-stack engineering** — not as a hobbyist, but as a builder who ships to production. I architect systems for real users, real data, and real money.
 
 ---
 
-## 🧠 What I'm Great At
+## 01 · Core Expertise
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🤖 AI & Machine Learning**
-- LLM integration (OpenAI, fine-tuning)
-- Adaptive learning systems
-- Chatbot architecture with context management
+### 🤖 AI & LLMs
+- LLM integration & fine-tuning (OpenAI, custom)
+- Adaptive learning engines
+- Chatbot architecture + context window management
 - PyTorch · TensorFlow · Python pipelines
 
 </td>
 <td width="33%" valign="top">
 
-**⛓️ Web3 & Blockchain**
-- Smart contract design in Solidity + Rust
-- DeFi protocols: staking, swaps, yield
-- Solana + EVM ecosystem
-- Hardhat · Anchor · Ethers.js
+### ⛓️ Web3 & DeFi
+- Smart contracts: Solidity + Rust
+- DeFi protocols: staking, swaps, yield farming
+- Solana + EVM ecosystems
+- Hardhat · Anchor · Ethers.js · Web3.js
 
 </td>
 <td width="33%" valign="top">
 
-**🔧 Full-Stack Engineering**
+### 🔧 Full-Stack Eng.
 - REST & GraphQL API architecture
-- Auth, RBAC, and payment systems
+- Auth systems, RBAC, payment integrations
 - Cloud infra: AWS · Docker · Supabase
 - React · Next.js · Node.js · Go
 
@@ -92,16 +73,17 @@ const ohine = {
 
 ---
 
-## 🛠 Tech Stack
+## 02 · Tech Stack
 
 <div align="center">
 
 **Languages & Frontend**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -114,12 +96,12 @@ const ohine = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Web3 & AI**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -129,84 +111,74 @@ const ohine = {
 
 ---
 
-## 🚀 Featured Projects
+## 03 · Featured Projects
 
 ### 🤖 AI & Full-Stack
 
-| Project | What It Does | Stack | Links |
-|---------|-------------|-------|-------|
-| **Lucid Stores** | Production e-commerce engine. RBAC auth, PayPal integration, Cloudinary media pipeline, admin dashboard. | `MERN` `Redux` `Tailwind` | [**Demo**](https://ecommerce-site-lucid-storess.onrender.com/) · [**Repo**](https://github.com/lucidshaya/Ecommerce-Site-Lucid-Stores-) |
-| **LMS AI Platform** | Adaptive learning engine that personalizes content paths in real-time using OpenAI based on student performance data. | `Next.js` `OpenAI` `MERN` | [**Repo**](https://github.com/lucidshaya/LMS-Platform) |
-| **LucidGPT** | ChatGPT clone with custom context window management and optimized token streaming. Clean, fast, production-ready. | `PERN` `TypeScript` | [**Repo**](https://github.com/lucidshaya/Code-Gen-AI) |
-| **Bill Payments Bot** | Fintech automation bot handling recurring bill reminders + payments via Telegram. | `Node.js` `Telegram API` | [**Repo**](https://github.com/lucidshaya/Bill-Payments-web-app) |
+| Project | What it does | Stack | Link |
+|---------|-------------|-------|------|
+| **LMS AI Platform** | Adaptive learning engine that personalizes content paths in real-time using OpenAI — scored to each student's performance data | `Next.js` `OpenAI` `MERN` | [**→ Repo**](https://github.com/lucidshaya/LMS-Platform) |
+| **Lucid Stores** | Production e-commerce engine — RBAC auth, PayPal integration, Cloudinary media pipeline, full admin dashboard | `MERN` `Redux` `Tailwind` | [**→ Live**](https://ecommerce-site-lucid-storess.onrender.com/) · [**→ Repo**](https://github.com/lucidshaya/Ecommerce-Site-Lucid-Stores-) |
+| **LucidGPT** | ChatGPT clone with custom context window management, optimized token streaming — clean, fast, production-ready | `PERN` `TypeScript` | [**→ Repo**](https://github.com/lucidshaya/Code-Gen-AI) |
+| **Bill Payments Bot** | Fintech automation bot for recurring bill reminders + payments over Telegram | `Node.js` `Telegram API` | [**→ Repo**](https://github.com/lucidshaya/Bill-Payments-web-app) |
 
 ### ⛓️ Web3 & Blockchain
 
-| Project | What It Does | Stack | Links |
-|---------|-------------|-------|-------|
-| **EtherScanner** | Live blockchain explorer. Real-time transaction tracking and smart contract verification. | `Solidity` `Ethers.js` | [**Live**](https://etherscannerr.vercel.app/) |
-| **Solana Staking DApp** | High-performance DeFi yield protocol. Users stake SOL into pools and earn rewards with real-time APY. | `Rust` `Anchor` `React` | [**Repo**]() |
-| **Solana Trading CLI** | High-frequency CLI tool for NFT trading and token swaps on Solana mainnet. | `TypeScript` `Web3.js` | [**Repo**]() |
+| Project | What it does | Stack | Link |
+|---------|-------------|-------|------|
+| **EtherScanner** | Live Ethereum blockchain explorer — real-time tx tracking + smart contract verification | `Solidity` `Ethers.js` | [**→ Live**](https://etherscannerr.vercel.app/) |
+| **Solana Staking DApp** | High-performance DeFi yield protocol — users stake SOL into pools and earn rewards with real-time APY | `Rust` `Anchor` `React` | [**→ Repo**]() |
+| **Solana Trading CLI** | High-frequency CLI tool for NFT trading and token swaps on Solana mainnet | `TypeScript` `Web3.js` | [**→ Repo**]() |
 
 ---
 
-## 📊 GitHub Stats
+## 04 · GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucidshaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucidshaya&theme=tokyonight&hide_border=true" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=lucidshaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&hide_title=true" />
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=lucidshaya&theme=tokyonight&hide_border=true" />
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucidshaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=true" />
+
+</div>
+
+---
+
+## 05 · Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucidshaya&bg_color=09090B&color=00FFB2&line=7B61FF&point=00FFB2&area=true&area_color=7B61FF&hide_border=true" />
+
+</div>
+
+---
+
+## 06 · Why Hire Me
+
+```
+✅  You get AI + Web3 + Full-Stack in a single engineer — rare
+✅  Systems designed for production scale from day one
+✅  Clear communication, ownership mindset, zero hand-holding needed
+✅  Comfortable across the full stack: DB → API → Frontend → DevOps
+✅  Ships real products — not prototypes gathering dust
+```
+
+---
+
+<div align="center">
+
+**Open to:** Full-Time Roles &nbsp;·&nbsp; Contract &nbsp;·&nbsp; Technical Consulting
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucidshaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![Email](https://img.shields.io/badge/Let's%20build%20something-ivorilucid@gmail.com-00FFB2?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:ivorilucid@gmail.com)
 
-</div>
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:1a1033,100:09090B&height=100&section=footer"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucidshaya&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucidshaya&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 💼 What Hiring Me Looks Like
-
-```
-✅  You get a full-stack engineer who ships — not just codes
-✅  Systems designed for scale from day one
-✅  Web3 + AI capability in a single hire
-✅  Clear communication, ownership mentality, production mindset
-✅  Experience across the entire stack: DB → API → Frontend → Deployment
-```
-
-> **Currently open to:** Full-Time Engineering Roles · Contract Work · Technical Consulting
->
-> 📩 **Let's build something great** → [ivorilucid@gmail.com](mailto:ivorilucid@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ohine-ivori-20027b335) · [Portfolio](https://ohinethedevv.vercel.app/)
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-*"Code is the brush, the screen is the canvas — and every system I build is built to last."*
-
-**[⭐ Star my work](https://github.com/lucidshaya) · [🌐 Explore my portfolio](https://ohinethedevv.vercel.app/)**
+*"Every system I build is designed to outlast the sprint it shipped in."*
 
 </div>
