@@ -25,7 +25,7 @@
 ```typescript
 const ohine = {
   role        : "Full-Stack Engineer · Web3 Architect · AI Systems Builder",
-  location    : "Building from anywhere. Shipping to everywhere.",
+  experience  : "4+ years shipping production software",
   expertise   : ["Scalable APIs", "AI-Driven Products", "DeFi Protocols"],
   stack       : ["TypeScript", "Rust", "Solidity", "Python", "Go", "React"],
   status      : "Open to full-time roles · Contract · High-impact collabs",
@@ -33,7 +33,7 @@ const ohine = {
 };
 ```
 
-> I sit at the intersection of **AI**, **Web3**, and **full-stack engineering** — not as a hobbyist, but as a builder who ships to production. I architect systems for real users, real data, and real money.
+> I sit at the intersection of **AI**, **Web3**, and **full-stack engineering** — building systems for real users, real data, and real money, not just demos.
 
 ---
 
@@ -44,17 +44,17 @@ const ohine = {
 <td width="33%" valign="top">
 
 ### 🤖 AI & LLMs
-- LLM integration & fine-tuning (OpenAI, custom)
+- LLM integration (OpenAI API, prompt/context design)
 - Adaptive learning engines
-- Chatbot architecture + context window management
-- PyTorch · TensorFlow · Python pipelines
+- Chatbot architecture & context-window management
+- Python pipelines · PyTorch · TensorFlow
 
 </td>
 <td width="33%" valign="top">
 
 ### ⛓️ Web3 & DeFi
 - Smart contracts: Solidity + Rust
-- DeFi protocols: staking, swaps, yield farming
+- DeFi mechanics: staking, swaps, yield farming
 - Solana + EVM ecosystems
 - Hardhat · Anchor · Ethers.js · Web3.js
 
@@ -117,18 +117,18 @@ const ohine = {
 
 | Project | What it does | Stack | Link |
 |---------|-------------|-------|------|
-| **LMS AI Platform** | Adaptive learning engine that personalizes content paths in real-time using OpenAI — scored to each student's performance data | `Next.js` `OpenAI` `MERN` | [**→ Repo**](https://github.com/lucidshaya/LMS-Platform) |
+| **LMS AI Platform** | Adaptive learning engine that personalizes content paths in real time with OpenAI, tailored to each student's performance data | `Next.js` `OpenAI` `MERN` | [**→ Repo**](https://github.com/lucidshaya/LMS-Platform) |
 | **Lucid Stores** | Production e-commerce engine — RBAC auth, PayPal integration, Cloudinary media pipeline, full admin dashboard | `MERN` `Redux` `Tailwind` | [**→ Live**](https://ecommerce-site-lucid-storess.onrender.com/) · [**→ Repo**](https://github.com/lucidshaya/Ecommerce-Site-Lucid-Stores-) |
-| **LucidGPT** | ChatGPT clone with custom context window management, optimized token streaming — clean, fast, production-ready | `PERN` `TypeScript` | [**→ Repo**](https://github.com/lucidshaya/Code-Gen-AI) |
-| **Bill Payments Bot** | Fintech automation bot for recurring bill reminders + payments over Telegram | `Node.js` `Telegram API` | [**→ Repo**](https://github.com/lucidshaya/Bill-Payments-web-app) |
+| **LucidGPT** | ChatGPT clone with custom context-window management and optimized token streaming | `PERN` `TypeScript` | [**→ Repo**](https://github.com/lucidshaya/Code-Gen-AI) |
+| **Bill Payments Bot** | Telegram bot automating recurring bill reminders and payments | `Node.js` `Telegram API` | [**→ Repo**](https://github.com/lucidshaya/Bill-Payments-web-app) |
 
 ### ⛓️ Web3 & Blockchain
 
 | Project | What it does | Stack | Link |
 |---------|-------------|-------|------|
-| **EtherScanner** | Live Ethereum blockchain explorer — real-time tx tracking + smart contract verification | `Solidity` `Ethers.js` | [**→ Live**](https://etherscannerr.vercel.app/) |
-| **Solana Staking DApp** | High-performance DeFi yield protocol — users stake SOL into pools and earn rewards with real-time APY | `Rust` `Anchor` `React` | [**→ Repo**]() |
-| **Solana Trading CLI** | High-frequency CLI tool for NFT trading and token swaps on Solana mainnet | `TypeScript` `Web3.js` | [**→ Repo**]() |
+| **EtherScanner** | Live Ethereum blockchain explorer — real-time tx tracking and smart contract verification | `Solidity` `Ethers.js` | [**→ Live**](https://etherscannerr.vercel.app/) |
+| **Solana Staking DApp** | DeFi yield protocol — users stake SOL into pools and earn rewards at real-time APY | `Rust` `Anchor` `React` | *Repo link coming soon* |
+| **Solana Trading CLI** | CLI tool for token swaps and NFT trading on Solana, tuned to reduce latency from network congestion | `TypeScript` `Web3.js` | *Repo link coming soon* |
 
 ---
 
@@ -155,14 +155,14 @@ const ohine = {
 
 ---
 
-## 06 · Why Hire Me
+## 06 · Why Work With Me
 
 ```
-✅  You get AI + Web3 + Full-Stack in a single engineer — rare
-✅  Systems designed for production scale from day one
-✅  Clear communication, ownership mindset, zero hand-holding needed
+✅  AI, Web3, and full-stack engineering in one engineer
+✅  Systems designed for production scale, not just demos
+✅  Clear communication and an ownership mindset
 ✅  Comfortable across the full stack: DB → API → Frontend → DevOps
-✅  Ships real products — not prototypes gathering dust
+✅  I ship real products — not prototypes that gather dust
 ```
 
 ---
